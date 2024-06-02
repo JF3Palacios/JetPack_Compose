@@ -41,7 +41,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.height(200.dp) )
                 Spacer(modifier = Modifier.height(16.dp))
                 Text(text = "Mi nombre es $name", style = MaterialTheme.typography.titleMedium)
-                Text(text = "Soy Programador")
+                Text(text = "Soy Aprendiz de Programación")
                 Text(text = "En Gijón")
             }
         }
